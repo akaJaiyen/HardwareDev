@@ -69,3 +69,9 @@ python chromedino.py
 -	http://www.pygame.org/docs
 -	https://en.wikipedia.org/wiki/Dinosaur_Game
 -	Various articles and videos.
+
+### The project developers are listed as follows:
+1. Phichak Limlamlertkul
+2. Kirana Rakprakobkij
+3. Boonyapon Boontub
+4. Saral Sangkhaworn
